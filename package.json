@@ -1,0 +1,32 @@
+{
+  "name": "@stdlib/array-base-unitspace",
+  "version": "0.0.0",
+  "description": "Generate a linearly spaced numeric array whose elements increment by 1.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/array-base-unitspace.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "utilities",
+    "utils",
+    "generic",
+    "array",
+    "matlab",
+    "linear",
+    "linspace",
+    "sequence",
+    "increment"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
