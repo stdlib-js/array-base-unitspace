@@ -50,7 +50,7 @@ The [branches.md][branches-url] file summarizes the available branches and displ
 var unitspace = require( '@stdlib/array-base-unitspace' );
 ```
 
-#### unitspace( start, stop, increment )
+#### unitspace( start, stop )
 
 Generates a linearly spaced numeric `array` whose elements increment by `1`.
 
@@ -163,7 +163,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
