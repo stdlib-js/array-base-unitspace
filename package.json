@@ -38,7 +38,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@stdlib/array-base-filled-by": "^0.2.1",
+    "@stdlib/array-base-filled-by": "^0.2.2",
     "@stdlib/assert-is-array": "^0.2.2",
     "@stdlib/blas-ext-base-gsort2hp": "^0.2.2",
     "@stdlib/math-base-special-pow": "^0.3.0",
