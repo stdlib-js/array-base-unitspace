@@ -44,6 +44,11 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
+unitspace = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-unitspace@umd/browser.js' )
+```
+The previous example will load the latest bundled code from the umd branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/array-base-unitspace/tags). For example,
+
+```javascript
 unitspace = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-unitspace@v0.2.3-umd/browser.js' )
 ```
 
@@ -56,7 +61,7 @@ var unitspace = require( 'path/to/vendor/umd/array-base-unitspace/index.js' )
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-base-unitspace@v0.2.3-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-base-unitspace@umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -129,7 +134,7 @@ var arr = unitspace( 0, 6 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gsort2hp@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled-by@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-base-unitspace@v0.2.3-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-base-unitspace@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
