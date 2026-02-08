@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import unitspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-unitspace@esm/index.mjs';
+import unitspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-unitspace@v0.2.3-esm/index.mjs';
 ```
 
 #### unitspace( start, stop )
@@ -107,7 +107,7 @@ var arr = unitspace( 0, 6 );
 import sort2hp from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gsort2hp@esm/index.mjs';
 import filledBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled-by@esm/index.mjs';
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import unitspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-unitspace@esm/index.mjs';
+import unitspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-unitspace@v0.2.3-esm/index.mjs';
 
 // Generate an array of random numbers:
 var x = filledBy( 10, randu );
